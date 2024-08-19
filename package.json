@@ -2,7 +2,7 @@
   "name": "innovation-station-group-project",
   "version": "1.0.0",
   "description": "This is a CMPG323 Third year group project",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
